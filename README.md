@@ -1,5 +1,11 @@
 # Token Radar — which DeFi protocols are the most valuable launches still to come?
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/Harianrevi1/token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/Harianrevi1/token-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
+Built for the [make.fun bounty "Build the best token launch radar"](https://make.fun/bounty/token-radar-01) (token-radar-01).
+
 This entry watches a frozen DefiLlama snapshot and asks one question: among the protocols
 that have **never issued a token**, which ones would be worth the most if they launched one
 tomorrow? It answers with a ranked board of 198 protocols, a dashboard that lays the working
